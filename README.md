@@ -1,4 +1,4 @@
 # Painters-Partition-DAA
-Brute force approach
-Recursive approac
-Binary search approach - least time complexity 
+### Brute force approach
+### Recursive approac
+### Binary search approach - least time complexity 
