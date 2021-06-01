@@ -1,7 +1,7 @@
 # Painters-Partition-DAA
 ### Brute force approach
 Time complexity - O(N^K)
-### Recursive approac
+### Recursive approach
 Time complexity - O(N^K)
 ### Dynamic Programming (Bottom-up)
 Time complexity - O(k * N^2)
